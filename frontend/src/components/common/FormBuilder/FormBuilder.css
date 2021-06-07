@@ -1,0 +1,29 @@
+
+.Form_inner{
+    width: 450px;
+    margin: 50px auto auto auto;
+    background-color:white;
+    padding: 30px 50px 30px 50px;
+}
+
+.textdiv{
+    width: 100%;
+    margin-top: -10px;
+    height: 40px;
+}
+
+.text{
+    float: left;
+    font-size: 15px;
+    color: rgb(175, 180, 178);
+    margin-left: 70px;
+}
+
+.link{
+    float: left !important;
+    margin-left: 10px;
+    left: 240px;
+    color: rgb(10, 175, 98);
+    font-size: 15px;
+    cursor: pointer;
+}

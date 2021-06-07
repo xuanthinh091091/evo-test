@@ -1,0 +1,16 @@
+.Userdiv{
+    text-align: left !important;
+}
+
+.pageTitle {
+    width: 100%;
+    text-align: center !important;
+    color: darkviolet;
+    font-size: 20px;
+    border-bottom: 1px darkblue solid;
+    height: 50px;
+} 
+
+.buttondiv{
+    margin: 10px !important;
+}

@@ -1,0 +1,44 @@
+{
+  "name": "razer",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^3.16.1",
+    "axios": "^0.18.0",
+    "enzyme": "^3.9.0",
+    "enzyme-adapter-react-16": "^1.12.1",
+    "jest": "23.6.0",
+    "jest-when": "^2.4.0",
+    "react": "^16.8.3",
+    "react-confirm-alert": "^2.3.0",
+    "react-dom": "^16.8.3",
+    "react-hooks-easy-redux": "^1.6.0",
+    "react-modal": "^3.8.1",
+    "react-redux": "^6.0.1",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.5",
+    "react-test-renderer": "^16.8.6",
+    "react-testing-library": "^6.1.2",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0"
+  },
+  "proxy": "http://api:3000",
+  "scripts": {
+    "start": "PORT=8080 react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "json-loader": "^0.5.7"
+  }
+}

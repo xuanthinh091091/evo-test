@@ -1,0 +1,40 @@
+
+.iconLogoutDiv{
+    background-color:#1890FF;
+    height: 32px;
+    width: 32px;
+    line-height: 32px;
+    font-size: 16px;
+    border-radius: 70%;
+    margin-top: 15px ;
+    cursor: pointer;
+    float: right;
+}
+
+.Header {
+    background-color:  #001529 !important;
+    height: 60px !important;
+}
+
+.usernameDiv{
+    float: right;
+    color: white;
+    margin-right: 100px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.username{
+    float: right;
+    color: white;
+    margin-right: 20px;
+    padding-top: 15px;
+}
+
+.logout{
+    height: 100;
+    width: 200;
+    background-color: blue;
+    cursor: pointer;
+    color: brown;
+}

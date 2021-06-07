@@ -1,0 +1,44 @@
+.tableDiv{
+    margin-top: 10px;
+}
+
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: auto;
+}
+  
+td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    border: 1px solid #0da4f0dc;
+    text-align: left;
+    padding: 8px;
+    background-color: #0da4f0dc
+}
+  
+tr:hover{
+    background-color: #c9c4c4e1;
+}
+
+
+.checkBox{
+    width: 5px !important;
+}
+
+.helptext{
+    margin-left: 10px;
+    margin-top: 10px;
+    font-style: bold;
+    color: #0da4f0dc;
+}
+
+.action{
+    width: 180px !important;
+    text-align: center !important;
+}

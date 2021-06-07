@@ -1,0 +1,18 @@
+.iconCollapse{
+    height: 30px;
+    width: 30px;
+}
+
+
+.ant-menu-item-selected{
+    background-color: #00B242 !important;
+}
+
+.iconCollapseDiv{
+    background-color:#1890FF;
+    height: 60px;
+    width: 100%;
+    padding-top: 15px;
+    font-size: 19px;
+    text-align: center;
+}
